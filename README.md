@@ -1,13 +1,13 @@
 ## License
    © 2026 Elhabchi Mohammed. All Rights Reserved.
 
-# 🏎️ LuxeDrive - Application Web MERN de Location de Voitures de Prestige
+#  LuxeDrive - Application Web MERN de Location de Voitures de Prestige
 
 Application web moderne, performante et intuitive de location de véhicules haut de gamme conçue avec la stack **MERN (MongoDB, Express.js, React, Node.js)**, stylisée avec **Tailwind CSS** selon une esthétique **Clean Minimalist & Glassmorphism**, et enrichie d'icônes **Lucide React**.
 
 ---
 
-## 🌟 Points Clés & Fonctionnalités Réalisées
+## Points Clés & Fonctionnalités Réalisées
 
 ### 1. Backend & Architecture MVC
 - **Serveur Express & Node.js** modulaire avec gestion rigoureuse des erreurs et codes HTTP.
